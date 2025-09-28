@@ -78,17 +78,12 @@ Para a realização dos ensaios, cada problema/experimento (classificação, reg
     | modelName | mae | rmse | r2 | mape |  |
     | --- | --- | --- | --- | --- | --- |
     | randomForest | 13.034.856 | 17.720.416 | 0.355078 | 6.543.768 |  |
-    | Ridge
-      Polynomial Regression | 16.624.089 | 20.907.118 | 0.102266 | 8.154.727 |  |
+    | Ridge Polynomial Regression | 16.624.089 | 20.907.118 | 0.102266 | 8.154.727 |  |
     | DecisionTree | 17.009.887 | 21.253.742 | 0.072252 | 7.833.723 |  |
-    | Linear
-      Regression | 17.129.965 | 21.480.869 | 0.052317 | 8.521.859 |  |
-    | Ridge
-      Linear Regression | 17.130.024 | 21.480.929 | 0.052312 | 8.521.827 |  |
-    | Elastic
-      Net Linear Regression | 17.150.640 | 21.512.493 | 0.049525 | 8.533.096 |  |
-    | Lasso
-      Linear Regression | 17.213.783 | 21.607.620 | 0.041100 | 8.553.253 |  |
+    | Linear Regression | 17.129.965 | 21.480.869 | 0.052317 | 8.521.859 |  |
+    | Ridge Linear Regression | 17.130.024 | 21.480.929 | 0.052312 | 8.521.827 |  |
+    | Elastic Net Linear Regression | 17.150.640 | 21.512.493 | 0.049525 | 8.533.096 |  |
+    | Lasso Linear Regression | 17.213.783 | 21.607.620 | 0.041100 | 8.553.253 |  |
 
 
 - **Clusterização**
